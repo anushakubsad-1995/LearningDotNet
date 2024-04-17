@@ -161,3 +161,4 @@
 /AngularAuthAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.AngularAuthAPI.props
 /AngularAuthAPI/obj/project.assets.json
 /AngularAuthAPI/obj/project.nuget.cache
+/AngularAuthUI/node_modules
